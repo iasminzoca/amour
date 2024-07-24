@@ -18,3 +18,7 @@ h1{
     background-image: url(Menu.svg);
     display: inline-block;
 }
+
+.cabeçalho{
+    background-color: var(--branco);
+}
