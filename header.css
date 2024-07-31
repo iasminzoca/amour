@@ -33,3 +33,7 @@
 .container__botao:checked ~ .lista-menu{
     display: block;
 }
+
+.lista-menu__titulo{
+    color: var(--laranja);
+}
