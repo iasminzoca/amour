@@ -6,7 +6,7 @@
 }
 
 .banner__titulo{
-    font-size: 180px;
+    font-size: 18px;
     font-weight: 700;
 }
 
@@ -30,6 +30,6 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url("img/Rectangle 30.png") no-repeat;
+    background: url("img/pesquisa.png") no-repeat;
     background-position: 1em;
 }
