@@ -60,9 +60,10 @@
 }
 
 @media screen and (min-width: 1024px) {
-    /* Estilos para tablets */
+    /* Código omitido */
+
         .container__titulo{
-            display: block;
+            display: none;
         }
         .container__titulo--negrito {
           font-family: var(--fonte-secundario);
@@ -73,7 +74,7 @@
 
   .container__titulo {
     font-weight: 400;
-    display: none;
+    display: block;
   }
   
   .container__titulo--negrito {
