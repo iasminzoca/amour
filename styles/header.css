@@ -71,7 +71,7 @@
         }
 
         .opções {
-            display: flex;
+            display: none;
         }
 
         .opções_item {
