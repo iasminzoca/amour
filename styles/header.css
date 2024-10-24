@@ -60,7 +60,6 @@
 }
 
 @media screen and (min-width: 1024px) {
-    /* Código omitido */
 
         .container__titulo{
             display: none;
@@ -101,3 +100,19 @@
   .container__titulo--negrito {
     font-weight: 700;
   }
+
+  @media screen and (min-width: 1728px) {
+        .container__link {
+          display: flex;
+          align-items: center;
+          text-decoration: none;
+          color: var(--preto);
+        }
+            .opcoes {
+              margin-right: auto;
+            }
+          
+
+
+      }
+}
