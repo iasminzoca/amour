@@ -37,11 +37,14 @@ hr {
         .lista-rodapé {
             display: block;
       }
+
+      }
+
+      @media screen and (min-width: 1728px) {
+        .lista-rodapé {
+          border-left: 1px solid var(--cinza);
+          padding-left: 1em;
+        }
       }
 
     
-}
-
-.lista-rodapé {
-    display: none;
-  }
