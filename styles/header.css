@@ -107,12 +107,19 @@
           align-items: center;
           text-decoration: none;
           color: var(--preto);
+            .container__texto {
+              display: block;
+            }
+          }
         }
             .opcoes {
               margin-right: auto;
             }
+
+            .container__texto {
+                display: none;
+              }
           
 
 
-      }
-}
+      
